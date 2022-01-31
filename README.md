@@ -2,6 +2,10 @@
 
 public class Test
 {
+pulbic static void main()
+{
 
+
+}
 
 }
